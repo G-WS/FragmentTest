@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/reverse/forwarded_workspace/FragmentTest/app/src/main/res/layout-large/activity_main.xml" value="0.1" />
+        <entry key="..\:/reverse/forwarded_workspace/FragmentTest/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.1" />
         <entry key="..\:/reverse/forwarded_workspace/FragmentTest/app/src/main/res/layout/activity_main.xml" value="0.2269021739130435" />
         <entry key="..\:/reverse/forwarded_workspace/FragmentTest/app/src/main/res/layout/another_right_fragment.xml" value="0.1" />
         <entry key="..\:/reverse/forwarded_workspace/FragmentTest/app/src/main/res/layout/left_fragment.xml" value="0.2269021739130435" />
